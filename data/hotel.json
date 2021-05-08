@@ -1,0 +1,51 @@
+{
+    "datahotel" : [{
+        "img" : "images/intercontinental.jpeg",
+        "name" : "Intercontinental Jakarta",
+        "address" : "Pondok Indah, Jakarta",
+        "point" : "Mengesankan - 8.9",
+        "reviews" : "(891)",
+        "price" : "Rp2.200.000",
+        "link" : "kamar.html"
+    }, {
+        "img" : "images/trans-luxury.jpeg",
+        "name" : "The Trans Luxury Hotel",
+        "address" : "Buahbatu, Bandung",
+        "point" : "Mengesankan - 9.0",
+        "reviews" : "(5838)",
+        "price" : "Rp2.000.000",
+        "link" : "trans-hotel.html"
+    }, {
+        "img" : "images/hotel-hilton.jpg",
+        "name" : "Hilton Bandung",
+        "address" : "Pasirkaliki, Bandung",
+        "point" : "Mengesankan - 8.8",
+        "reviews" : "(2512)",
+        "price" : "Rp2.100.000",
+        "link" : "hilton-bandung.html"
+    }, {
+        "img" : "images/crowne-plaza.jpg",
+        "name" : "Crowne Plaza Bandung",
+        "address" : "Sumurbandung, Bandung",
+        "point" : "Mengesankan - 8.7",
+        "reviews" : "(3450)",
+        "price" : "Rp652.000",
+        "link" : "crowne-plaza.html"
+    }, {
+        "img" : "images/hotel-indonesia.jpg",
+        "name" : "Hotel Indonesia Kempinski Jakarta",
+        "address" : "Thamrin, Jakarta",
+        "point" : "Mengesankan - 8.9",
+        "reviews" : "(3669)",
+        "price" : "Rp2.100.000",
+        "link" : "hotel-indonesia.html"
+    }, {
+        "img" : "images/ascott-jakarta.jpg",
+        "name" : "Ascott Jakarta",
+        "address" : "Thamrin, Jakarta",
+        "point" : "Mengesankan - 8.7",
+        "reviews" : "(2523)",
+        "price" : "Rp1.000.000",
+        "link" : "ascott-jakarta.html"
+    }]
+}
